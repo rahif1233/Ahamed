@@ -1,0 +1,71 @@
+"Full Name","Username","Project","Task ID","Task Name","Day Plan","End-of-Day Summary","Achievements","Estimated Hours","Remaining Hours","Work Spent (Total)","Comment","Entry Hours"
+Mohamed  Shareef A,amohamedshareef@gmail.com,AIOps Developers,51,May - SR,"*   [ ] 1
+*   [ ] 2
+*   [ ] 3","*   [x] ~~1~~
+*   [x] ~~2~~
+*   [ ] 3",,40,3,8,,8
+OpenProject Admin,admin,Demo project,2,Organize open source conference,,"*   [ ] 2
+*   [ ] 3
+*   [ ] 4",,65,,46,,41
+OpenProject Admin,admin,Demo project,1,Start of project,,,,,,417,sdsaas,411
+OpenProject Admin,admin,Demo project,2,Organize open source conference,,"*   [ ] 2
+*   [ ] 3
+*   [ ] 4",,65,,46,asdsa,4
+OpenProject Admin,admin,Demo project,2,Organize open source conference,,"*   [ ] 2
+*   [ ] 3
+*   [ ] 4",,65,,46,asda,1
+OpenProject Admin,admin,Intern,59,Demo Work - Testing,"*   [ ] Work Items 1
+*   [ ] Work items 2
+*   [ ] Work items 3
+*   [ ] Work item 4","*   [x] ~~Work Items 1~~
+*   [x] ~~Work items 2~~
+*   [x] ~~Work items 3~~
+*   [ ] Work item 4",,,,1,asd,1
+OpenProject Admin,admin,Intern,62,Wanna to do something,,,,,,1,2,1
+OpenProject Admin,admin,Demo project,61,Doing something,"*   [ ] Doing Something
+*   [ ] Yes
+*   [ ] No","*   [x] ~~Doing Something~~
+*   [x] ~~Yes~~
+*   [x] ~~No~~",,,,1,2,1
+aa aa,a@gmail.com,Demo project,4,Send invitation to speakers,,Nothing new. Done,,,,21,adas,1
+OpenProject Admin,admin,New,47,aRSATH,"*   [ ] TEST
+*   [ ] TEST12","*   [x] TEST
+*   [x] TEST12",,6,,3,TEST,3
+OpenProject Admin,admin,New Project,46,Arshath,"*   [ ] 1
+*   [ ] 2
+*   [ ] 3","*   [x] 1
+*   [x] 2
+*   [ ] 3",,,,9,i competed,9
+D S,s@gmail.com,Intern,44,Sample,"*   [ ] 1
+*   [ ] 2
+*   [ ] 3","*   [x] 1
+*   [x] 2
+*   [x] 3",,10,9,9,Sam,9
+D S,s@gmail.com,New Project,43,Priya,"*   [ ] Grafana Integration
+*   [ ] Trainings
+*   [ ] Networking
+*   [ ] MISC
+*   [ ] OFFICE WORK
+*   [ ] Self training","*   [x] Grafana Integration
+*   [x] Trainings
+*   [x] Networking
+*   [x] MISC
+*   [ ] OFFICE WORK
+*   [ ] Self training",,6,3,1,I woek on dolloin itesm,1
+OpenProject Admin,admin,New Project,42,Arsath,*   [x] mahatma,*   [x] mahatma,,2,3,1,ttesttttt,1
+OpenProject Admin,admin,New Project,40,Test1,I did some thing,Test,,,,1,This is grafana integrations - New Projects,1
+OpenProject Admin,admin,Scrum project,14,New login screen,,,,,,1,This is grafana integrations SCREM,1
+OpenProject Admin,admin,Demo project,4,Send invitation to speakers,,Nothing new. Done,,,,21,Sample,10
+aa aa,a@gmail.com,Demo project,4,Send invitation to speakers,,Nothing new. Done,,,,21,I did not work anything today  - Yes!,10
+OpenProject Admin,admin,Demo project,38,python projects list,,,,,,1,updated,1
+OpenProject Admin,admin,Demo project,3,Set date and location of conference,,,,,,1,This is grafana integrations,1
+OpenProject Admin,admin,Demo project,1,Start of project,,,,,,417,adasadassda ,6
+OpenProject Admin,admin,Demo project,37,Test,"I want to do this many items.
+
+1.  Work on web development
+2.  Revenue building
+3.  sharing work","I completed following items.
+
+1.  ~~Work on web development~~
+2.  ~~Revenue building~~
+3.  sharing work",,,,1,adas - New update,1
